@@ -1,7 +1,7 @@
 # Text-Editor-using-Queue-data-structure
 
 ## Implementation details:
-Here, we implemented the text editor using Queue data structure in c language. We have created a menu driven program which interacts with the user and performs the operation accordingly. There are a total of four operations that can be performed in this program. For that there are ten methods. Each methods are explained below:
+Here, we implemented the text editor using Queue data structure in c++ language. We have created a menu driven program which interacts with the user and performs the operation accordingly. There are a total of four operations that can be performed in this program. For that there are ten methods. Each methods are explained below:
 
 _## 1. examineFront:_
 
